@@ -40,3 +40,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amankumar6&show_icons=true&locale=en&layout=compact" alt="amankumar6" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amankumar6&show_icons=true&locale=en" alt="amankumar6" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amankumar6&" alt="amankumar6" /></p>
