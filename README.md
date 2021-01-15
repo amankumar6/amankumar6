@@ -1,13 +1,13 @@
 <div align="center">
 <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumar6&label=Profile%20views&color=0e75b6&style=flat" alt="amankumar6" /> </p>
 
 # Hi, I am Aman Kumar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 </div>
 
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumar6&label=Profile%20views&color=0e75b6&style=flat" alt="amankumar6" /> </p>
 
 <div>
     <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
@@ -87,10 +87,5 @@
 <div align="center">
 <img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
 </div>
-
-<p> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/amankumar6/count.svg" />
-</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
