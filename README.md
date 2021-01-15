@@ -79,7 +79,6 @@
     
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=412h6kwehmtse5aj1k92hv61f&redirect&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=412h6kwehmtse5aj1k92hv61f&redirect&redirect=true)
 
-<br><br>
 </div>
 
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
