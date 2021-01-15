@@ -62,21 +62,21 @@
     If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me.
 </p>
 <p align="right">
-    <a href="mailto:amamkumar786dpsdh@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-    <a href="https://www.facebook.com/amankumar062"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
-    <a href="https://twitter.com/amankumar062"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-    <a href="https://https://www.youtube.com/channel/UCOcZ_NXVu1p7m_sW0RO4_VA"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
-    <a href="https://www.reddit.com/user/aman_kumar_0017"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
-    <a href="https://www.instagram.com/amankumar062"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-    <a href="https://www.twitch.tv/w1z4rd06"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
-    <a href="https://www.pinterest.com/amankumar062/"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest"/></a>
-    <a href="https://soundcloud.com/amankumar062"><img src="https://img.icons8.com/color/96/000000/soundcloud.png" alt="soundcloud"/></a>
-    <a href="https://www.linkedin.com/in/amankumar6"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-    <a href="https://medium.com/@amankumar06"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
-    <a href="https://steamcommunity.com/id/arreyouwinningson"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
-    <a href="https://open.spotify.com/user/412h6kwehmtse5aj1k92hv61f?si=l4ShY3ruQSSWZ0U0ZKa11w"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
-    <a href="https://stackoverflow.com/users/13969650/aman-kumar"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
-    <a href="https://discord.gg/TcfBchhtfU"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
+    <a href="mailto:amamkumar786dpsdh@gmail.com"><img width="70px" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+    <a href="https://www.facebook.com/amankumar062"><img width="70px" src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+    <a href="https://twitter.com/amankumar062"><img width="70px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+    <a href="https://https://www.youtube.com/channel/UCOcZ_NXVu1p7m_sW0RO4_VA"><img width="70px" src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
+    <a href="https://www.reddit.com/user/aman_kumar_0017"><img width="70px" src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
+    <a href="https://www.instagram.com/amankumar062"><img width="70px" src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+    <a href="https://www.twitch.tv/w1z4rd06"><img width="70px" src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
+    <a href="https://www.pinterest.com/amankumar062/"><img width="70px" src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest"/></a>
+    <a href="https://soundcloud.com/amankumar062"><img width="70px" src="https://img.icons8.com/color/96/000000/soundcloud.png" alt="soundcloud"/></a>
+    <a href="https://www.linkedin.com/in/amankumar6"><img width="70px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+    <a href="https://medium.com/@amankumar06"><img width="70px" src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
+    <a href="https://steamcommunity.com/id/arreyouwinningson"><img width="70px" src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
+    <a href="https://open.spotify.com/user/412h6kwehmtse5aj1k92hv61f?si=l4ShY3ruQSSWZ0U0ZKa11w"><img width="70px" src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
+    <a href="https://stackoverflow.com/users/13969650/aman-kumar"><img width="70px" src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
+    <a href="https://discord.gg/TcfBchhtfU"><img width="70px" src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
 </p>
 
 <div>
