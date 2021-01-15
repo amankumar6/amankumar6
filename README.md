@@ -13,32 +13,32 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right">
     <br><br><br>
     <li>
-        <b>Name:</b> Aman Kumar
+        <b>𝘕𝘢𝘮𝘦:</b> 𝘈𝘮𝘢𝘯 𝘒𝘶𝘮𝘢𝘳
     </li>
     <li>
-        <b>Nationality:</b> Indian
+        <b>𝘕𝘢𝘵𝘪𝘰𝘯𝘢𝘭𝘪𝘵𝘺:</b> 𝘐𝘯𝘥𝘪𝘢𝘯
     </li>
     <li>
-        <b>Loves:</b> You!, Pizza and Games maybe 
+        <b>𝘓𝘰𝘷𝘦𝘴:</b> 𝘠𝘰𝘶!, 𝘗𝘪𝘻𝘻𝘢 𝘢𝘯𝘥 𝘎𝘢𝘮𝘦𝘴 𝘮𝘢𝘺𝘣𝘦
     </li>
     <li>
-        <b>Gender:</b> He/His/Male
+        <b>𝘎𝘦𝘯𝘥𝘦𝘳:</b> 𝘏𝘦/𝘏𝘪𝘴/𝘔𝘢𝘭𝘦
     </li>
     <li>
-        <b>Hobbys:</b> Eat, Music, Games, Sleep
+        <b>𝘏𝘰𝘣𝘣𝘪𝘦𝘴:</b> 𝘌𝘢𝘵, 𝘚𝘭𝘦𝘦𝘱, 𝘓𝘪𝘴𝘵𝘦𝘯 𝘵𝘰 𝘔𝘶𝘴𝘪𝘤, 𝘢𝘯𝘥 𝘙𝘦𝘱𝘦𝘢𝘵
     </li>
     <li>
-        <b>I’m currently learning: </b> ReactJs
+        <b>𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨:</b> 𝘙𝘦𝘢𝘤𝘵𝘑𝘴
     </li>
     <li>
-        <b>Fun fact: </b> I am some one who hopes for the best but expects the worst.
+        <b>𝘍𝘶𝘯 𝘧𝘢𝘤𝘵:</b> 𝘐 𝘢𝘮 𝘴𝘰𝘮𝘦 𝘰𝘯𝘦 𝘸𝘩𝘰 𝘩𝘰𝘱𝘦𝘴 𝘧𝘰𝘳 𝘵𝘩𝘦 𝘣𝘦𝘴𝘵 𝘣𝘶𝘵 𝘦𝘹𝘱𝘦𝘤𝘵𝘴 𝘵𝘩𝘦 𝘸𝘰𝘳𝘴𝘵.
     </li>
     <br>
 </div>
 
 <br><br><br>
 
-<h2> ~ 📇 𝓼𝓽𝓪𝓽𝓼 📇 ~ </h2>
+<h2> ~ 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼 ~ </h2>
 
 <div>
 <img src="https://i.pinimg.com/originals/b8/38/ed/b838ed9eead6ce4b448bc020883ec881.gif" align="right">
@@ -93,4 +93,4 @@
 <img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
 </div>
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1 align='center'>⚡️𝓢𝓽𝓪𝔂 𝓐𝔀𝓮𝓼𝓸𝓶𝓮!⚡️</h1>
