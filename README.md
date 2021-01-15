@@ -1,36 +1,9 @@
 <div align="center">
 <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-# Hi, I am Bit Liu!👨‍🎓
-
-[Blog](https://www.liuxunzhuo.com)🏠  | [Zhihu](https://zhihu.com/people/liuxunzhuo)📚
-
-My Chinese name is **刘训灼**🇨🇳
-
-Study at **UESTC**，Major in **Software Engineering**💻
-
-I love **OpenSource Movement** ❤️
-
-I like to Record and Share **Knowledge** ☁️
-
-I Believe "***Talk is Cheap, Show me the Code***" 👽
-
-## My interest❤️ 
-
-**Web Developement, Architecture, Cloud Native**☁️
-
-**Algorithms, Container, Microservice, Java and AI** 🤖️
-
-## My Repos are Below👇 
-
-#### Feel free to give Your Suggestions, Issues or PRs🌍
-
-<img  src="https://github-readme-stats.vercel.app/api?username=Xunzhuo&show_icons=true&theme=tokyonight&icon_color=6392DF">
+# Hi, I am Aman Kumar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 </div>
-
-
-<h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumar6&label=Profile%20views&color=0e75b6&style=flat" alt="amankumar6" /> </p>
