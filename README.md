@@ -15,21 +15,32 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumar6&label=Profile%20views&color=0e75b6&style=flat" alt="amankumar6" /> </p>
 
-<p align="left"> <a href="https://twitter.com/amankumar062" target="blank"><img src="https://img.shields.io/twitter/follow/amankumar062?logo=twitter&style=for-the-badge" alt="amankumar062" /></a> </p>
-
-- 🔭 I’m currently working on [Epic-Player](https://github.com/amankumar6/Epic-Player)
-
-- 🌱 I’m currently learning **ReactJs**
-
-- 👨‍💻 All of my projects are available at [https://github.com/amankumar6](https://github.com/amankumar6)
-
-- 💬 Ask me about **HTML, CSS, JavaScript**
-
-- 📫 How to reach me **https://www.linkedin.com/in/amankumar06**
-
-- 📄 Know about my experiences [https://bit.ly/2VAzsbK](https://bit.ly/2VAzsbK)
-
-- ⚡ Fun fact **I am some one who hopes for the best but expects the worst.**
+<div>
+    <h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </h2>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right">
+    <li>
+        <b>Name:</b> Aman Kumar
+    </li>
+    <li>
+        <b>Nationality:</b> Indian
+    </li>
+    <li>
+        <b>Loves:</b> You!, Pizza and Games maybe 
+    </li>
+    <li>
+        <b>Gender:</b> He/His/Male
+    </li>
+    <li>
+        <b>Hobbys:</b> Eat, Music, Games, Sleep
+    </li>
+    <li>
+        <b>I’m currently learning: </b> **ReactJs**
+    </li>
+    <li>
+        <b>Fun fact: </b> **I am some one who hopes for the best but expects the worst.**
+    </li>
+    <br>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
