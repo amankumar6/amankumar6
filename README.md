@@ -12,6 +12,7 @@
 <div>
     <h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </h2>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right">
+    <br><br><br>
     <li>
         <b>Name:</b> Aman Kumar
     </li>
@@ -28,10 +29,10 @@
         <b>Hobbys:</b> Eat, Music, Games, Sleep
     </li>
     <li>
-        <b>I’m currently learning: </b> **ReactJs**
+        <b>I’m currently learning: </b> ReactJs
     </li>
     <li>
-        <b>Fun fact: </b> **I am some one who hopes for the best but expects the worst.**
+        <b>Fun fact: </b> I am some one who hopes for the best but expects the worst.
     </li>
     <br>
 </div>
