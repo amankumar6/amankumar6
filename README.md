@@ -42,7 +42,7 @@
 
 <div>
 <img src="https://i.pinimg.com/originals/b8/38/ed/b838ed9eead6ce4b448bc020883ec881.gif" align="right">
-<br>
+<br><br>
 <p>
  
 ![Aman's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=amankumar6)
