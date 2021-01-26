@@ -93,7 +93,7 @@
 <img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
 </div>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">𝓢𝓾𝓹𝓹𝓸𝓻𝓽 𝓜𝓮:</h3>
 <p><a href="https://www.buymeacoffee.com/amankumar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amankumar" /></a></p><br><br>
 
 <h1 align='center'>⚡️𝓢𝓽𝓪𝔂 𝓐𝔀𝓮𝓼𝓸𝓶𝓮!⚡️</h1>
