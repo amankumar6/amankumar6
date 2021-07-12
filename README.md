@@ -10,7 +10,7 @@
 
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumar6&label=Profile%20views&color=0e75b6&style=flat" alt="amankumar6" /> </p>
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right">
+<img src="https://i.imgur.com/XZ60Urs.gif" align="right">
 <br><br><br>
 
 + **𝘕𝘢𝘮𝘦:** 𝘈𝘮𝘢𝘯 𝘒𝘶𝘮𝘢𝘳
