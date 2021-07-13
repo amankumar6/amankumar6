@@ -3,12 +3,12 @@
 
 # Hi, I am Aman Kumar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
+### A passionate Full Stack Developer from India
+
+## 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊
+
 </div>
 
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-
-
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumar6&label=Profile%20views&color=0e75b6&style=flat" alt="amankumar6" /> </p>
 <img src="https://res.cloudinary.com/dbvthtwhc/image/upload/v1626164162/amankumar6/oie_1382955yVeMgIl4_ddyxlu.gif" align="right">
 <br><br><br>
@@ -71,13 +71,16 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=412h6kwehmtse5aj1k92hv61f&redirect&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=412h6kwehmtse5aj1k92hv61f&redirect&redirect=true)
 
 ## 💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖
+
 ![amankumar6](https://kurosamareviews.files.wordpress.com/2020/12/tenor-10.gif)
 
 </div>
 
-### 𝓢𝓾𝓹𝓹𝓸𝓻𝓽 𝓂𝑒:
+### 𝓢𝓾𝓹𝓹𝓸𝓻𝓽 𝓂𝑒
 
-<p><a href="https://www.buymeacoffee.com/amankumar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amankumar" /></a></p>
+<a href="https://www.buymeacoffee.com/amankumar"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="amankumar"/></a>
+
+<a href="https://paypal.me/amankumar062"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/1280px-PayPal.svg.png" height="45" alt="amankumar"/></a>
 
 <!-- <br><br>
 
